@@ -1,3 +1,12 @@
 [submodule "content/themes/casper"]
 	path = content/themes/casper
 	url = https://github.com/TryGhost/Casper.git
+[submodule "content/themes/Ellie"]
+	path = content/themes/Ellie
+	url = https://github.com/Thomascullen92/Ellie.git
+[submodule "content/themes/uno"]
+	path = content/themes/uno
+	url = https://github.com/daleanthony/uno.git
+[submodule "content/themes/crisp-ghost-theme"]
+	path = content/themes/crisp-ghost-theme
+	url = https://github.com/kathyqian/crisp-ghost-theme.git
