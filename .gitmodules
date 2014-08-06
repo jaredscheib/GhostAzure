@@ -7,3 +7,6 @@
 [submodule "content/themes/crisp-ghost-theme"]
 	path = content/themes/crisp-ghost-theme
 	url = https://github.com/kathyqian/crisp-ghost-theme.git
+[submodule "content/themes/uno"]
+	path = content/themes/uno
+	url = https://github.com/jaredscheib/uno
